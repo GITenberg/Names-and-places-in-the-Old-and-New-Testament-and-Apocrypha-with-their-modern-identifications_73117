@@ -1,0 +1,51 @@
+_repo: Names-and-places-in-the-Old-and-New-Testament-and-Apocrypha-with-their-modern-identifications_73117
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Armstrong, G. H. (George Henry)
+    alias: Armstrong, George Henry
+    birthdate: 1858
+    deathdate: 1938
+    gutenberg_agent_id: '44931'
+    url: http://www.gutenberg.org/2009/agents/44931
+creator:
+  author:
+    agent_name: Conder, C. R. (Claude Reignier)
+    alias: Conder, Claude Reignier
+    birthdate: 1848
+    deathdate: 1910
+    gutenberg_agent_id: '42313'
+    url: http://www.gutenberg.org/2009/agents/42313
+    wikipedia: https://en.wikipedia.org/wiki/Claude_Reignier_Conder
+  editor:
+    agent_name: Wilson, Charles William, Sir
+    aliases:
+    - Wilson, C. W. (Charles William), Sir
+    - Wilson, Charles W. (Charles William), Sir
+    birthdate: 1836
+    deathdate: 1905
+    gutenberg_agent_id: '53320'
+    url: http://www.gutenberg.org/2009/agents/53320
+    wikipedia: https://en.wikipedia.org/wiki/Charles_William_Wilson
+description: ''
+gutenberg_issued: '2024-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73117'
+language: en
+pgterms:marc904: https://archive.org/details/namesandplacesin00armsuoft/page/n3
+pgterms:marc905: 20190904042710armstrong
+pgterms:marc906: '1889'
+pgterms:marc907: GB
+production_note: Brian Coe, Neil Mercer and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was created from images of public domain material
+  made available by the University of Toronto Libraries.)
+publication_note: '  $aLondon :$bAlexander P. Watt, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Names and places in the Old and New Testament and Apocrypha, with their modern
+  identifications
+url: http://www.gutenberg.org/ebooks/73117
