@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '44931'
     url: http://www.gutenberg.org/2009/agents/44931
+covers:
+- cover_type: archival
+  image_path: 73117-h/images/cover.jpg
 creator:
   author:
     agent_name: Conder, C. R. (Claude Reignier)
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53320
     wikipedia: https://en.wikipedia.org/wiki/Charles_William_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73117#Names-and-places-in-the-Old-and-New-Testament-and-Apocrypha-with-their-modern-identifications
 gutenberg_issued: '2024-03-07'
 gutenberg_type: Text
 identifiers:
